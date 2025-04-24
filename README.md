@@ -20,3 +20,6 @@
 
 🌐 نظام تحديثات تلقائي مدمج لضمان وصولك دائمًا إلى أحدث إصدار.
 
+![AutoCapture_PGUGaHxu9I](https://github.com/user-attachments/assets/7bdd2f29-c14d-432a-acde-39293631a1f5)
+
+
