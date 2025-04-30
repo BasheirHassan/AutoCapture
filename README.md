@@ -1,4 +1,4 @@
-# AutoCapture
+# Auto Capture
 
 
 
